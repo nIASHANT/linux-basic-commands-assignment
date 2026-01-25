@@ -1,0 +1,3 @@
+Hello, this is my first file handling program.
+Python file write example.
+Here nishant have written this code.
