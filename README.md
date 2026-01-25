@@ -9,3 +9,11 @@ This repository contains screenshots and explanations of basic Linux commands in
 - Environment variables
 
 OS Used: Ubuntu Linux
+
+
+Assignment/pyhton
+ ├── marks.py
+ ├── dictonary.py
+ ├── write.py
+ ├── sample.txt
+ └── screenshots/
